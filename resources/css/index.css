@@ -1,0 +1,12 @@
+
+.cool-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* For the color gradiant upper the h1 */
+.main-notch{
+    background-image: linear-gradient(to right, #DE38BF , #C63ED8);
+    height: 1.6%;
+    width: 40px;
+}
+
